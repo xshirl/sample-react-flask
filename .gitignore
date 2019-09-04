@@ -1,0 +1,4 @@
+app/static/node_modules
+app/env
+app/static/package-lock.json
+
