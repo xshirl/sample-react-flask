@@ -36,8 +36,11 @@ module.exports = config;
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --progress -d --config webpack.config.js --watch"
   }, ``` 
-6. ``` npm i babel-core babel-loader babel-preset-es2015 babel-preset-react --save-dev```
-```npm i @babel/preset-env @babel/preset-react --save-dev```
+6. 
+``` 
+npm i babel-core babel-loader babel-preset-es2015 babel-preset-react --save-dev
+npm i @babel/preset-env @babel/preset-react --save-dev
+```
 7. See package json
 8. See index.html
 9. Create index.jsx file
