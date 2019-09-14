@@ -41,7 +41,7 @@ module.exports = config;
 ``` 
 6. 
 ``` 
-npm i babel-core babel-loader babel-preset-es2015 babel-preset-react --save-dev
+npm i @babel/core babel-core babel-loader babel-preset-es2015 babel-preset-react --save-dev
 npm i @babel/preset-env @babel/preset-react --save-dev
 ```
 7. See package json
